@@ -1,0 +1,8 @@
+{
+  "name": "Copy of IT ZONE JATOI - AI Hub",
+  "description": "An all-in-one AI powerhouse featuring real-time voice conversations, advanced image/video generation with Veo and Imagen, deep reasoning 'thinking' mode, search grounding, and multimodal analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
